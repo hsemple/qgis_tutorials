@@ -16,27 +16,20 @@ Some amount of thought is required when mapping the data. If the data is quantit
 Assignment
 ------------
 
-1. Create a thematic choropleth map showing population distribution by states in the USA.  The data for this exercise can be found at  this `Github link <https://github.com/hsemple/-Covid19/blob/master/USA-2.zip>`_.  Click on the *Download* button and download the USA states shapefile.  
+1. Create a thematic choropleth map showing the geographic distribution of confirmed COVID-19 cases in the United States by counties as the situation existed on January 1, 2022.  The data for this exercise can be found at  this `Github link <https://github.com/hsemple/-Covid19/blob/master/USA-2.zip>`_.  Click on the *Download* button and download the both the Covid19_Jan2022_US_Counties.zip layer and the USA-2.zip layer.  
+
+2. Follow instructions in Section A on this page to create the map. Your map should be complete with title, legend, scale bar, etc.  Use map design principles to make the map look attractive. 
 
 
-2. Using the same data as above, create a proportional symbol map. 
-
-
-3. Health care policy makers would like to understand the distribution of Covid19 cases across the United States. As as GIS analyst, create for them a thematic choropleth map showing Covid19 cases for Counties in the USA for February 2022.  Download a USA County Shapefile with Covid19 data February 2022 `here <https://github.com/hsemple/-Covid19/blob/master/usa_counties_covid_Feb25_2021.zip>`_.
-
-
-4. Using `this dataset <https://github.com/hsemple/gistutorials_datasets/blob/main/Michigan_Population.zip>`_, create a proportional symbol map showing the distribution of population by countiies for Michigan for the year 2020. Using the proportional symbol map that you just made, briefly describe population distribution patterns you observe in the data.
-
-
-Follow the instructions below to complete Numbers 1 and 2 above. Complete Number 3 and 4 on your own.
+3. Upload the zipped shapefile to ArcGIS Online then use it to create an interactive web map that is shared with the general public. .  Follow the instructions in Section B on this page to create the interactive map.
 
 
 
 |
 
 
-Creating a Choropleth Thematic Map
--------------------------------------
+Creating a Choropleth Covid19 Thematic Map
+-------------------------------------------
 
 1. After downloading the data, unzip or extract it to a location that you can remember.
 
