@@ -194,105 +194,96 @@ Create an  Interactive Map of Covid19 Confirmed Cases in the US Using ArcGIS Onl
 -------------------------------------------------------------------------------------
 
 
-a. Revisit the location where you stored the downloaded files from the last section. We will reuse the same data for this section. However, with ArcGIS Online, the data unzipped files will be used.
+1. Revisit the location where you stored the downloaded files from the last section. We will reuse the same data for this section. However, with ArcGIS Online, the data unzipped files will be used.
 
  
 
-b. Visit  http://arcgis.com and log into using your ArcGIS Online account.
+2. Visit  http://arcgis.com and log into using your ArcGIS Online account.
 
  
 
-c. At the ArcGIS Online Homepage, click on Content.
+3. At the ArcGIS Online Homepage, click on Content.
 
 .. image:: img/ArcGISOnline_Homepage.png
    :alt: ArcGIS Homepage
 
 
 
-d. Click on New Item. When the dialog appears, select "Your Device", then navigate to where the zipped "Covid19_Jan2022_USA_Counties.zip" shapefile is located.
+4. Click on New Item. When the dialog appears, select "Your Device", then navigate to where the zipped "Covid19_Jan2022_USA_Counties.zip" shapefile is located.
 
 
 .. image:: img/ArcGiS_Online_New_Item.png
    :alt: New Item
 
 
-e. Select the file, fill out the dialog, click Next, then import the file. This process converts the shapefile into a format that can be easily displayed by browsers.
+5. Select the file, fill out the dialog, click Next, then import the file. This process converts the shapefile into a format that can be easily displayed by browsers.
 
 
 .. image:: img/Add_hosted_feature_layer.png
    :alt: ArcGIS Homepage
 
 
+
+6. After the layer is imported, a page similar to the one below appears.  First, click on Share and share the file with the general public or with the members of your organization, i.e., members of EMU. 
+
  
 
-f. After the layer is imported, a page similar to the one below appears.  First, click on Share and share the file with the general public or with the members of your organization, i.e., members of EMU. 
-
- 
-
-g. Next, click on Open in Map Viewer.
+7. Next, click on Open in Map Viewer.
 
 .. image:: img/Open_in_MapViewer.png
    :alt: Layer Opened in Map Viewer
 
 
 
-
-h. The map will open in Map Viewer. It should look similar to the illustration below.
-
+8. The map will open in Map Viewer. It should look similar to the illustration below.
 
 .. image:: img/Map_Displayed_in_MapViewer.png
    :alt: Map Displayed in Map Viewer
 
 
 
-i. Center the map on the contiguous states.
+9. Center the map on the contiguous states.
 
 .. image:: img/Contiguous_USA1.png
    :alt: Contiguous States
 
 
-
-j. Now, let's map an attribute field.  Click on the Styles button to the right of the application, the click on Field. Browse to the field named "Confirmed" and select it.
+10. Now, let's map an attribute field.  Click on the Styles button to the right of the application, the click on Field. Browse to the field named "Confirmed" and select it.
 
 .. image:: img/Add_Style2.png
    :alt: Map Attribute Table
 
 
  
-
-k.  After the map draws, click on the "Counts and Amounts (color)" style.
+11.  After the map draws, click on the "Counts and Amounts (color)" style.
 
 .. image:: img/Style3.png
    :alt: Counts and Amounts Style
 
 
  
-l. When the dialog appears, click on Symbol Style. In the Symbol Style dialog, set the outline color of the county boundaries on the map to black, adjust the transparency to about 50%, and set the outline width of lines to 1 pixel.  Click Done.
-
+12. When the dialog appears, click on Symbol Style. In the Symbol Style dialog, set the outline color of the county boundaries on the map to black, adjust the transparency to about 50%, and set the outline width of lines to 1 pixel.  Click Done.
 
 .. image:: img/Style4.png
    :alt: Select Symbol Style
 
 
  
-
-m. Save the map by clicking on the Save as button and filling out the dialog.
+13. Save the map by clicking on the Save as button and filling out the dialog.
 
 .. image:: img/Save_Map_as.png
    :alt: Save Map
 
 
 
- 
-
-n. Share the map by clicking on the Share button, as illustrated below.
+14. Share the map by clicking on the Share button, as illustrated below.
 
 .. image:: img/ShareMap1.png
    :alt: Share Map
 
 
 
-o. Copy the URL at the top of the page and submit it.
+15. Copy the URL at the top of the page and submit it.
 
  
  
