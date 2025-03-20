@@ -18,17 +18,17 @@ Assignment
 
 1. Create a thematic choropleth map showing the geographic distribution of confirmed COVID-19 cases in the United States by counties as the situation existed on January 1, 2022.  The data for this exercise can be found at  this `Github link <https://github.com/hsemple/-Covid19/blob/master/USA-2.zip>`_.  Click on the *Download* button and download the both the Covid19_Jan2022_US_Counties.zip layer and the USA-2.zip layer.  
 
-2. Follow instructions in Section A on this page to create the map. Your map should be complete with title, legend, scale bar, etc.  Use map design principles to make the map look attractive. 
+2. Follow instructions in Section 3.2 on this page to create the map. Your map should be complete with title, legend, scale bar, etc.  Use map design principles to make the map look attractive. 
 
 
-3. Upload the zipped shapefile to ArcGIS Online then use it to create an interactive web map that is shared with the general public. .  Follow the instructions in Section B on this page to create the interactive map.
+3. Upload the zipped shapefile to ArcGIS Online then use it to create an interactive web map that is shared with the general public. .  Follow the instructions in Section 3.4 on this page to create the interactive map.
 
 
 
 |
 
 
-Section A Creating a Choropleth Covid19 Thematic Map
+Creating a Choropleth Covid19 Thematic Map
 ------------------------------------------------------
 
 1. After downloading the data, unzip or extract it to a location that you can remember.
@@ -190,7 +190,7 @@ Section A Creating a Choropleth Covid19 Thematic Map
 
 
 
-Section B. Create an  Interactive Map of Covid19 Confirmed Cases in the US Using ArcGIS Online
+Create an  Interactive Map of Covid19 Confirmed Cases in the US Using ArcGIS Online
 -------------------------------------------------------------------------------------------------
 
 
@@ -286,19 +286,21 @@ Section B. Create an  Interactive Map of Covid19 Confirmed Cases in the US Using
 15. Copy the URL at the top of the page and submit it.
 
  
- 
+ |
 
-Tips
 
-1. Often, to enhance the appearance of your final map, you may need to edit the layer name and field name for display purposes.  Click on this link
+**Tips**
 
-Links to an external site. for information on how to make these changes.
-
- 
+1. Often, to enhance the appearance of your final map, you may need to edit the layer name and field name for display purposes.  Click on this [link](https://support.esri.com/en-us/knowledge-base/how-to-edit-the-map-legend-s-symbology-label-and-layer--000027803)
+for information on how to make these changes.
 
  
 
-Deliverables
+ |
+
+
+
+**Deliverables**
 
 1. A professional quality thematic map showing Covid19 cases by counties in the USA. The map must must be well-laid out and have an easy to understand color scheme, a title, legend, scale bar, and north arrow.  Export the layout as an image and upload it to Canvas.
 
