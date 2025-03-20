@@ -71,7 +71,8 @@ Creating a Choropleth Covid19 Thematic Map
 
 
 
-8. To map the confirmed cases column, select Graduated as the Style.  Select "Confirmed" as the column to map. Click on the dropdown next to Color Ramp and select a color ramp. For numerical data that goes from lower values to higher values, one can select a single color ramp.  Lower values will be given a lighter version of the color while higher values will be given a darker version of the color. <br><br>
+8. To map the confirmed cases column, select Graduated as the Style.  Select "Confirmed" as the column to map. Click on the dropdown next to Color Ramp and select a color ramp. For numerical data that goes from lower values to higher values, one can select a single color ramp.  Lower values will be given a lighter version of the color while higher values will be given a darker version of the color. 
+
 
 .. image:: img/mapping_attributes4.png
    :alt: Mapping Attributes
@@ -79,7 +80,8 @@ Creating a Choropleth Covid19 Thematic Map
    
 
 
-9. Select the default 5 as the number of classes. Most cartographers suggest 5-6 classes as providing the best results.  Since we selected five classes, QGIS will place the population totals of the 50 states into 5 groups.  
+9. Select the default 5 as the number of classes. Most cartographers suggest 5-6 classes as providing the best results.  Since we selected five classes, QGIS will place the population totals of the 50 states into 5 groups.
+
 
 
 10. Next to "Mode", select "Natural Breaks" as the method of classification or grouping the data. Natural breaks means that the software will rank the data from highest to lowest and then create five groups such that each group contains numbers that are generally similar to each other. The goal is to create groupings of similar numbers rather than groups of equal number of cases. You can also experiment with equal interval, standard deviation, etc. to see their effect. Click Classify.  
@@ -92,11 +94,13 @@ Creating a Choropleth Covid19 Thematic Map
 11. You can also set the boundaries of the groups manually. Click on the Histogram tab then select Load Data.  You can now edit the class boundaries by moving the vertical lines with your mouse. You can also click on an empty space to add new class boundaries. 
 
 
+
 .. image:: img/mapping_attributes5b.png
    :alt: Histogram
 
 
 12. Next to Legend Format, %1 - %2 lets you control how you want the lower and upper numbers to appear in the legend. %1 is the lower number and %2 is the upper number.  "Precision" controls the number of decimal places that will appear in the legend while the Trim option removes excess trailing zeroes.
+
 
 
 13. Click OK and view the map in the main QGIS window. This map definitely conveys a lot more useful information that just numbers in a table.  
@@ -105,7 +109,8 @@ Creating a Choropleth Covid19 Thematic Map
 .. image:: img/mapping_attributes5.png
    :alt: Mapping Attributes
 
- 
+
+
 
 14.  At this stage, you can download and add the States shapefile to your project. When you add the USA States layer onto the Canvas, it will  likely cover the county level layer entirely, so you have to make it transparent in order to see the outlines of the states plus the details of the county layer. 
 
@@ -113,10 +118,12 @@ Creating a Choropleth Covid19 Thematic Map
    :alt: States Layer
 
 
+
 15. To make the state layer transparent, double click on the layer name icon in the Table of Contents, Select symbology  and set the color to transparent.  
 
 .. image:: img/Transparent_Layer.png
    :alt: States Layer Draped on County Layer
+
 
 
 
