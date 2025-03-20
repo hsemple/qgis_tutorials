@@ -115,12 +115,12 @@ Creating a Choropleth Covid19 Thematic Map
 **Preparing the Choropleth Map for Printing**
 
 1. Now that you are familiar with the process of creating a thematic chropleth map, the final step is "compose" the map for printing.  This is phase where your artistic skill comes into play.  I strongly suggest that you look over the lecture notes on map design principles, as they provide important information on how to style your final map.  You can also  browse Internet resources for information on this topic.  Key components of a professional map include:
-   •  The map body
-   •  The title of the map 
-   •  The scale bar
-   •  The north arrow  
-   •  The legend 
-   •  Data Source (optional)
+   * The map body
+   *  The title of the map 
+   *  The scale bar
+   *  The north arrow  
+   * The legend 
+   *  Data Source (optional)
 
 
 2. QGIS comes with an application called "Composer" that is used to create professional quality layouts. 
