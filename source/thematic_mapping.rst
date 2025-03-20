@@ -334,7 +334,7 @@ Create an  Interactive Map of Covid19 Confirmed Cases in the US Using ArcGIS Onl
 
 **Tips**
 
-Often, to enhance the appearance of your final map, you may need to edit the layer name and field name for display purposes.  Click on this [link](https://support.esri.com/en-us/knowledge-base/how-to-edit-the-map-legend-s-symbology-label-and-layer--000027803)
+Often, to enhance the appearance of your final map, you may need to edit the layer name and field name for display purposes.  Click on this  `link <https://support.esri.com/en-us/knowledge-base/how-to-edit-the-map-legend-s-symbology-label-and-layer--000027803>`_
 for information on how to make these changes.
 
  
