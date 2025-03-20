@@ -192,8 +192,8 @@ Creating a Choropleth Covid19 Thematic Map
 
 
 Create an  Interactive Map of Covid19 Confirmed Cases in the US Using ArcGIS Online
+-------------------------------------------------------------------------------------
 
- 
 
 a. Revisit the location where you stored the downloaded files from the last section. We will reuse the same data for this section. However, with ArcGIS Online, the data unzipped files will be used.
 
