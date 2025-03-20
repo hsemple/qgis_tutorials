@@ -28,8 +28,8 @@ Assignment
 |
 
 
-Creating a Choropleth Covid19 Thematic Map
--------------------------------------------
+Section A Creating a Choropleth Covid19 Thematic Map
+------------------------------------------------------
 
 1. After downloading the data, unzip or extract it to a location that you can remember.
 
@@ -190,8 +190,8 @@ Creating a Choropleth Covid19 Thematic Map
 
 
 
-Create an  Interactive Map of Covid19 Confirmed Cases in the US Using ArcGIS Online
--------------------------------------------------------------------------------------
+Section B. Create an  Interactive Map of Covid19 Confirmed Cases in the US Using ArcGIS Online
+-------------------------------------------------------------------------------------------------
 
 
 1. Revisit the location where you stored the downloaded files from the last section. We will reuse the same data for this section. However, with ArcGIS Online, the data unzipped files will be used.
