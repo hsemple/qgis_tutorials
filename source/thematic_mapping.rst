@@ -212,7 +212,7 @@ d. Click on New Item. When the dialog appears, select "Your Device", then naviga
 
  
 .. image:: img/ArcGiS Online_New_Item.png
-   :alt: ArcGIS Homepage
+   :alt: New Item
 
 
 
