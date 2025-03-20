@@ -37,7 +37,7 @@ Creating a Choropleth Covid19 Thematic Map
 2. Load the map layer into QGIS.
 
 
-3. Right click on the name of the layer and select Open Attribute table. Inspect the attribute table. We will use the column that contains population data for the US. Examine the population data, then close the attribute table.
+3. Right click on the name of the layer and select Open Attribute table. Inspect the attribute table. We will use the column that is named "Confirmed". This column contains whole numbers and represent the total raw number of confirmed cases per county. There is another field named "Confirmedb" which ontain floating-point numbers or decimals, suggesting it represent normalized values (e.g., cases per 100,000 people). Since we want to map the actual counts, we are using the "Confirmed" values.  Examine the population data, then close the attribute table.
 
 
 4. Now, right click on the layer name again and choose ‘Properties’.
