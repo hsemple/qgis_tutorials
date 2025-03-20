@@ -187,9 +187,6 @@ Creating a Choropleth Covid19 Thematic Map
 |
 
 
-|
-
-
 
 Create an  Interactive Map of Covid19 Confirmed Cases in the US Using ArcGIS Online
 -------------------------------------------------------------------------------------
