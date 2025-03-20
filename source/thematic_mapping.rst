@@ -134,7 +134,7 @@ Creating a Choropleth Covid19 Thematic Map
 
 
 
-3. Enter a name for the new print composer object that will be created, e.g., "Population Distribution USA". A new print Composer window will open.  You may have to use the Zoom button to adjust the size of the main map area of composer.
+3. Enter a name for the new print composer object that will be created, e.g., "Distribution of Covid19 Cases, USA, Jan 2022". A new print Composer window will open.  You may have to use the Zoom button to adjust the size of the main map area of composer.
 
 .. image:: img/composing_map2.png
    :alt: Composing Map
@@ -143,7 +143,7 @@ Creating a Choropleth Covid19 Thematic Map
 4. The Print Composer tool contains four main parts: (1) a menu at the top of the screen, (2) a toolbar to the left, (3) the main map area, which has blank canvas where you would be composing the map, and (4) a panel with three tabs to the right, Composition, Item Properties, and Guides.
  
 
-5. To add a map to composer, click on Add Item on the main menu, then click "Add Map".b Now draw a rectangle container on the canvas to hold the map.  When you end the rectangle, the map will appear.  Note: If you do not like the rectangle size, you can always resize it afterwards.
+5. To add a map to composer, click on Add Item on the main menu, then click "Add Map". Now draw a rectangle container on the canvas to hold the map.  When you end the rectangle, the map will appear.  Note: If you do not like the rectangle size, you can always resize it afterwards.
  
 
 .. image:: img/composing_map3.png
