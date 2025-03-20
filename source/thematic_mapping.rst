@@ -225,45 +225,45 @@ e. Select the file, fill out the dialog, click Next, then import the file. This 
 
  
 
-f. After the layer imports, a page similar to the one appears.  First, click on Share and share the file with the general public or with the members of your organization, i.e., members of EMU. 
+f. After the layer is imported, a page similar to the one below appears.  First, click on Share and share the file with the general public or with the members of your organization, i.e., members of EMU. 
 
  
 
 g. Next, click on Open in Map Viewer.
 
 .. image:: img/Open_in_MapViewer.png
-   :alt: ArcGIS Homepage
+   :alt: Layer Opened in Map Viewer
 
 
 
 
-h. The map will open in Map Viewer. It should similar to the illustration below.
+h. The map will open in Map Viewer. It should look similar to the illustration below.
 
 
 .. image:: img/Map_Displayed_in_MapViewer.png
-   :alt: ArcGIS Homepage
+   :alt: Map Displayed in Map Viewer
 
 
 
 i. Center the map on the contiguous states.
 
 .. image:: img/Contiguous_USA1.png
-   :alt: ArcGIS Homepage
+   :alt: Contiguous States
 
 
 
 j. Now, let's map an attribute field.  Click on the Styles button to the right of the application, the click on Field. Browse to the field named "Confirmed" and select it.
 
 .. image:: img/Add_Style2.png
-   :alt: ArcGIS Homepage
+   :alt: Map Attribute Table
 
 
  
 
-k.  After the map draws, click on the Counts and Amounts (color) style.
+k.  After the map draws, click on the "Counts and Amounts (color)" style.
 
 .. image:: img/Style3.png
-   :alt: ArcGIS Homepage
+   :alt: Counts and Amounts Style
 
 
  
