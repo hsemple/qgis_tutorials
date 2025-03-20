@@ -3,7 +3,7 @@
 Thematic Mapping
 =======================
    
-A popular way of presenting information about spatial patterns is to use a thematic map. A thematic map shows the spatial distribution of one or more specific data themes for selected geographic areas. The data may be quantitative (e.g., percentage population change, income distribution) or qualitative  (e.g., predominant farm types, mineral distribution in the USA, mountain systems in the Americas).
+A popular way of presenting information about geographic patterns is to use a thematic map. A thematic map shows the spatial distribution of one or more specific data themes for selected geographic areas. The data may be quantitative (e.g., percentage population change, income distribution) or qualitative  (e.g., predominant farm types, mineral distribution in the USA, mountain systems in the Americas).
 
 With a GIS software, the basic way to create a vector thematic map is to identify the field in the attribute table of the map layer that will be used for mapping. Next, scrutinize the data to learn about its statistical distribution, then display it using the software's thematic mapping engine.  
 
@@ -114,13 +114,15 @@ Creating a Choropleth Covid19 Thematic Map
  
 **Preparing the Choropleth Map for Printing**
 
-1. Now that you are familiar with the process of creating a thematic chropleth map, the final step is "compose" the map for printing.  This is phase where your artistic skill comes into play.  I strongly suggest that you look over the lecture notes on map design principles, as they provide important information on how to style your final map.  You can also  browse Internet resources for information on this topic.  Key components of a professional map include:
-   - The map body
-   - The title of the map 
-   - The scale bar
-   - The north arrow  
-   - The legend 
+1. Now that you are familiar with the process of creating a thematic choropleth map, the final step is "compose" the map for printing. This is the phase where your artistic skill comes into play. I strongly suggest that you look over the lecture notes on map design principles, as they provide important information on how to style your final map. You can also browse Internet resources for information on this topic. Key components of a professional map include:
+
+   - The map body  
+   - The title of the map  
+   - The scale bar  
+   - The north arrow  
+   - The legend  
    - Data Source (optional)
+
 
 
 2. QGIS comes with an application called "Composer" that is used to create professional quality layouts. 
