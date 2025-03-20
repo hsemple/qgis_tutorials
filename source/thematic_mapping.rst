@@ -151,7 +151,7 @@ Creating a Choropleth Covid19 Thematic Map
 2. QGIS comes with an application called "Composer" that is used to create professional quality layouts. 
  
  
-3. With the map you are working on still opened in QGIS, click on Project on the main menu, then ‘New Print Layout'.  
+3. With the map you are working on still opened in QGIS, click on Project on the main menu, then ‘New Print Layout', as shown in the illustration below.  Note: The illstration does not contain the superimposed states layer, but your project should contain it.  
 
 
 .. image:: img/composing_map1.png
