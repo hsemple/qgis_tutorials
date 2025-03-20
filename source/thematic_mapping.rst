@@ -71,7 +71,7 @@ Creating a Choropleth Covid19 Thematic Map
 
 
 
-8. To map the confirmed cases column, select Graduated as the Style.  Select "Confirmed" as the column to map. Click on the dropdown next to Color Ramp and select a color ramp. For numerical data that goes from lower values to higher values, one can select a single color ramp.  Lower values will be given a lighter version of the color while higher values will be given a darker version of the color.
+8. To map the confirmed cases column, select Graduated as the Style.  Select "Confirmed" as the column to map. Click on the dropdown next to Color Ramp and select a color ramp. For numerical data that goes from lower values to higher values, one can select a single color ramp.  Lower values will be given a lighter version of the color while higher values will be given a darker version of the color. <br><br>
 
 .. image:: img/mapping_attributes4.png
    :alt: Mapping Attributes
