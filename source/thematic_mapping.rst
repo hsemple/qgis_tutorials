@@ -360,11 +360,13 @@ for information on how to make these changes.
 Resources
 ----------
 
-Covid19 datasets (csv files). These files must be joined to the shapefile's attribute table before creating the thematic map.
-https://github.com/nytimes/covid-19-data
+   - Covid19 datasets (csv files) -  These files must be joined to the shapefile's attribute table before creating the thematic map.
+     See this link for more information (https://github.com/nytimes/covid-19-data).
+   - Create a Proportional Symbol Map and Legend Using QGIS 3.x (Youtube) - https://www.youtube.com/watch?v=lmw1AZPyXiY&t=320s
 
-Create a Proportional Symbol Map and Legend Using QGIS 3.x (Youtube)
-https://www.youtube.com/watch?v=lmw1AZPyXiY&t=320s
+
+
+
 
 |
 
