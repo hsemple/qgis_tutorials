@@ -298,15 +298,18 @@ Create an  Interactive Map of Covid19 Confirmed Cases in the US Using ArcGIS Onl
    :alt: Save Map
 
 
+14. On your own, consider adding the states layer to your project and superimposing it on the counties layer.  If necessary, look Internet resources to learn how to do this.
 
-14. Share the map by clicking on the Share button, as illustrated below.
+
+
+15. Share the map by clicking on the Share button, as illustrated below.
 
 .. image:: img/ShareMap1.png
    :alt: Share Map
 
 
 
-15. Copy the URL at the top of the page and submit it.
+16. Copy the URL at the top of the page and submit it.
 
  
  |
