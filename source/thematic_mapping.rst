@@ -212,7 +212,7 @@ c. At the ArcGIS Online Homepage, click on Content.
 d. Click on New Item. When the dialog appears, select "Your Device", then navigate to where the zipped "Covid19_Jan2022_USA_Counties.zip" shapefile is located.
 
 
-.. image:: img/ArcGISOnlineNewItem.png
+.. image:: img/ArcGiS_Online_New_Item.png
    :alt: New Item
 
 
