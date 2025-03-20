@@ -107,11 +107,30 @@ Creating a Choropleth Covid19 Thematic Map
 
  
 
-|
+14.  At this stage, you can download and add the States shapefile to your project. When you add the USA States layer onto the Canvas, it will  likely cover the county level layer entirely, so you have to make it transparent in order to see the outlines of the states plus the details of the county layer. 
+
+.. image:: img/usa_states1.png
+   :alt: States Layer
+
+
+15. To make the state layer transparent, double click on the layer name icon in the Table of Contents, Select symbology  and set the color to transparent.  
+
+.. image:: img/Transparent_Layer.png
+   :alt: States Layer Draped on County Layer
 
 
 
- 
+16. At this stage, you are done creating the map. The next stage is to prepare the map for for printing. This requires us to create a professional quality layout that will contain a map body, legend, scale bar, title, etc. Once this is done, the map can be printed.
+
+
+.. image:: img/States_Draped_on_Counties.png
+   :alt: States Layer Draped on County Layer
+
+
+
+
+
+
 **Preparing the Choropleth Map for Printing**
 
 1. Now that you are familiar with the process of creating a thematic choropleth map, the final step is "compose" the map for printing. This is the phase where your artistic skill comes into play. I strongly suggest that you look over the lecture notes on map design principles, as they provide important information on how to style your final map. You can also browse Internet resources for information on this topic. Key components of a professional map include:
