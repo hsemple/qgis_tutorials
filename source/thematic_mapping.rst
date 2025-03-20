@@ -127,8 +127,11 @@ Creating a Choropleth Covid19 Thematic Map
    :alt: States Layer Draped on County Layer
 
 
+17. Below is an example of what your final map could like. The goal is to incorporate as many map design principles as possible when you create the map.  To create high quality maps, spend a few more minutes fiddling with the various map elements.
 
-|
+.. image:: img/final_map.png
+   :alt: States Layer Draped on County Layer
+
 
 |
 
@@ -318,13 +321,13 @@ Create an  Interactive Map of Covid19 Confirmed Cases in the US Using ArcGIS Onl
 
 16. Copy the URL at the top of the page and submit it.
 
- 
+
  |
 
 
 **Tips**
 
-1. Often, to enhance the appearance of your final map, you may need to edit the layer name and field name for display purposes.  Click on this [link](https://support.esri.com/en-us/knowledge-base/how-to-edit-the-map-legend-s-symbology-label-and-layer--000027803)
+Often, to enhance the appearance of your final map, you may need to edit the layer name and field name for display purposes.  Click on this [link](https://support.esri.com/en-us/knowledge-base/how-to-edit-the-map-legend-s-symbology-label-and-layer--000027803)
 for information on how to make these changes.
 
  
