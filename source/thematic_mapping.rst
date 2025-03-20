@@ -71,7 +71,7 @@ Creating a Choropleth Covid19 Thematic Map
 
 
 
-8. To map the population column, select Graduated as the Style.  Select Population as the column to map. Click on the dropdown next to Color Ramp and select also a color ramp. For numerical data that goes from lower values to higher values, one can select a single color ramp.  Lower values will be given a lighter version of the color while higher values will be given a darker version of the color.
+8. To map the confirmed cases column, select Graduated as the Style.  Select "Confirmed" as the column to map. Click on the dropdown next to Color Ramp and select a color ramp. For numerical data that goes from lower values to higher values, one can select a single color ramp.  Lower values will be given a lighter version of the color while higher values will be given a darker version of the color.
 
 .. image:: img/mapping_attributes4.png
    :alt: Mapping Attributes
@@ -96,10 +96,10 @@ Creating a Choropleth Covid19 Thematic Map
    :alt: Histogram
 
 
-12. Next to Legend Format, the %1 - %2 lets you control how you want the lower and upper numbers to appear in the legend. %1 is the lower number and %2 is the upper number.  Precision controls the number of decimal places that will appear in the legend while the Trim option removes excess trailing zeroes.
+12. Next to Legend Format, %1 - %2 lets you control how you want the lower and upper numbers to appear in the legend. %1 is the lower number and %2 is the upper number.  "Precision" controls the number of decimal places that will appear in the legend while the Trim option removes excess trailing zeroes.
 
 
-13. Click OK and see the map in the main QGIS window. This map definitely conveys a lot more useful information that just numbers in a table.  
+13. Click OK and view the map in the main QGIS window. This map definitely conveys a lot more useful information that just numbers in a table.  
 
 
 .. image:: img/mapping_attributes5.png
@@ -114,7 +114,7 @@ Creating a Choropleth Covid19 Thematic Map
  
 **Preparing the Choropleth Map for Printing**
 
-1. Now that you are familiar with the process of creating a thematic chropleth map, the final step is "compose" the map for printing.  This is phase where your artistic skill comes into play.  I strongly suggest that you look over the lecture notes on map design principles, as they provide important information on how to style your final map.  Key components of a professional map include:
+1. Now that you are familiar with the process of creating a thematic chropleth map, the final step is "compose" the map for printing.  This is phase where your artistic skill comes into play.  I strongly suggest that you look over the lecture notes on map design principles, as they provide important information on how to style your final map.  You can also  browse Internet resources for information on this topic.  Key components of a professional map include:
    •  The map body
    •  The title of the map 
    •  The scale bar
