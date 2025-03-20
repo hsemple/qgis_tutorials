@@ -188,23 +188,30 @@ Creating a Choropleth Covid19 Thematic Map
 9. With the scalebar selected, click on "Item Properties" to the right of the composer. Here you can fiddle with the different values to adjust elements of the scalebar's appearance.
  
 
-10. Repeat the same process as described in 8 above to add north arrow and legend to your map. Title and other text are added with the "Add Label" button on the Toolbar to the left.  Here is  view of my completed map.
- 
+10. Repeat the same process as described in 8 above to add north arrow and legend to your map. Title and other text are added with the "Add Label" button on the Toolbar to the left.  
 
 .. image:: img/composing_map4.png
    :alt: Composing Map
 
+
+
+11. Add a rectangle (also called a neatline) around the map. To do so, click on Add Item at the top of the screen, then select Add Shape | Add Rectangle. The rectangle most likely will cover and hide the map that was already there. First, adjust the boundary of the rectangle, then in the list to the right of the screen, drag the rectangle object to the bottom of the list.
+
+.. image:: img/Display_Rectangle.png
+   :alt: Composing Map
+
  
-11. Once you are satisfied with the map, you can export it as Image, PDF or SVG. For this tutorial, let’s export it as a PNG image. Click onLayout | Export as Image.  Select a path and a name for the exported image.  This image can be uploaded to Canvas Dropbox.
+ 
+12. Once you are satisfied with the map, you can export it as Image, PDF or SVG. For this tutorial, let’s export it as a PNG image. Click onLayout | Export as Image.  Select a path and a name for the exported image.  This image can be uploaded to Canvas Dropbox.
  
 
-12. Creating attractive maps requires knowledge about map design and map communication principles.  There is a large body of literature on elements of good map design. In Module 1.6,  I present some basic maps design ideas.  Please read these design ideas and try to integrate them as much as possible into your own map design. 
+13. Creating attractive maps requires knowledge about map design and map communication principles.  There is a large body of literature on elements of good map design. In Module 1.6,  I present some basic maps design ideas.  Please read these design ideas and try to integrate them as much as possible into your own map design. 
  
 
-13. As a rule, always try to create beautiful maps that effectively communicate spatial information. Conversely, always try to avoid creating ugly maps that fail to effectively communicate useful information.
+14. As a rule, always try to create beautiful maps that effectively communicate spatial information. Conversely, always try to avoid creating ugly maps that fail to effectively communicate useful information.
 
 
-14. Submit this map as proof that you completed the tutorial.
+15. Submit this map as proof that you completed the tutorial.
 
 
 
