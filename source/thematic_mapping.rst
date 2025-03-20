@@ -267,33 +267,32 @@ k.  After the map draws, click on the "Counts and Amounts (color)" style.
 
 
  
-i. When the dialog appears, click on Symbol Style. In the Symbol Style dialog, set the outline color of the county boundaries on the map to black, adjust the transparency to about 50%, and set the outline width of lines to 1 pixel.  Click Done.
+l. When the dialog appears, click on Symbol Style. In the Symbol Style dialog, set the outline color of the county boundaries on the map to black, adjust the transparency to about 50%, and set the outline width of lines to 1 pixel.  Click Done.
 
 
 .. image:: img/Style4.png
-   :alt: ArcGIS Homepage
+   :alt: Select Symbol Style
 
 
  
 
-j. Save the map by clicking on the Save as button and filling out the dialog.
+m. Save the map by clicking on the Save as button and filling out the dialog.
 
 .. image:: img/Save_Map_as.png
-   :alt: ArcGIS Homepage
+   :alt: Save Map
 
 
 
  
 
-k. Share the map by clicking on the Share button, as illustrated below.
+n. Share the map by clicking on the Share button, as illustrated below.
 
 .. image:: img/ShareMap1.png
-   :alt: ArcGIS Homepage
+   :alt: Share Map
 
 
 
-
-l. Copy the URL at the top of the page and submit it.
+o. Copy the URL at the top of the page and submit it.
 
  
  
