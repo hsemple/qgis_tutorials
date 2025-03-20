@@ -195,7 +195,7 @@ Creating a Choropleth Covid19 Thematic Map
 
 
 
-11. Add a rectangle (also called a neatline) around the map. To do so, click on Add Item at the top of the screen, then select Add Shape | Add Rectangle. The rectangle most likely will cover and hide the map that was already there. First, adjust the boundary of the rectangle, then in the list to the right of the screen, drag the rectangle object to the bottom of the list.
+11. Add a rectangle (also called a neatline) around the map. To do so, click on Add Item at the top of the screen, then select Add Shape | Add Rectangle. The rectangle most likely will cover and hide the map that was already there. To deal with this, first, adjust the boundary of the rectangle, then in the item list to the right of the screen, drag the rectangle object to the bottom of the list.
 
 .. image:: img/Display_Rectangle.png
    :alt: Composing Map
