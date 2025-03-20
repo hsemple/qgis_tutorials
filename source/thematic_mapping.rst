@@ -214,7 +214,6 @@ d. Click on New Item. When the dialog appears, select "Your Device", then naviga
    :alt: New Item
 
 
-
 e. Select the file, fill out the dialog, click Next, then import the file. This process converts the shapefile into a format that can be easily displayed by browsers.
 
 
