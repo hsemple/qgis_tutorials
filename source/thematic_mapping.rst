@@ -187,115 +187,137 @@ Creating a Choropleth Covid19 Thematic Map
 |
 
 
-
-
-Creating a Proportional Symbol Map
--------------------------------------
-
-Creating proportional symbols maps in QGIS is relatively. The workflow entails obtaining a points layer of the dataset and then symbolizing the points layer. The points layer can be symbolized as proportional symbols or graduated proportional symbols.
-
-
-1. In our situation, the data is available as a polygon layer, so we can convert the polygon layer into a points layer by clicking on Vector in the top menu, then selecting Geometry Tools | Centroids.
-
-.. image:: img/thematic_maps_proportional_symbolmap1.png
-   :alt: Points Map 
-
-
-2. When the dialog appears, ensure that the polygon layer is selected as the input file then click Run.  This will create a points layer from the polygon layer. All attribute fields will be preserved.
-
-.. image:: img/thematic_maps_proportional_symbolmap2.png
-   :alt: Mapping Attributes
-
-
-3. Right click on the *Centroid* layer that was created and select *Properties*.
-
-
-4.  Click on *Symbology* then fill out the dialog.  Start by selecting *Single Symbol* to create a single symbol map. 
-
-.. image:: img/thematic_maps_proportional_symbolmap3.png
-   :alt: Single Symbol Map
-
-
-5. Make sure that Simple Marker is highlighted then click on the dropdown to the right of the Size textbox. This will reveal the Assistant.
-
-.. image:: img/thematic_maps_proportional_symbolmap4.png
-   :alt: Select Simple Marker
-
-
-6. When the Assistant dialog appears, click on the dropdown to the right of Source and select the field that you wish to map. In this case, select the *Pop_2015* field. 
-
-.. image:: img/thematic_maps_proportional_symbolmap5.png
-   :alt: Assistant Dialog
-
-
-7. To the far right of the 'Values From' text box, click on the refresh button to load the minimum and maximum values for the selected values. In this case, there are several zeroes, so these are ignored and the next lowest value, 580000 was entered manually. I also adjusted the maximum symbol size to 20 to enhancee the appearance of fhe map. 
-
-
-8. The resultant map should appear as shown below.
-
-.. image:: img/thematic_maps_proportional_symbolmap6.png
-   :alt: Default Proportional Symbol Map
-
-
-9. By default, QGIS does not create a legend. To manually create a legend, double click on the name of the proportional symbol layer to bring up the properties dialog. 
-
-
-10. Click on Marker, then click on Advanced | Data-Defined Size Legend.
-
-.. image:: img/thematic_maps_proportional_symbolmap7.png
-   :alt: Data-Defined Size Legend
-
-
-11. In the dialog that appears, select Collapsed legend then click Ok.
-
-.. image:: img/thematic_maps_proportional_symbolmap8.png
-   :alt: Collapsed legend
-
-
-12. In the Table of Content, expand the legend of the Centroid layer.  It should appear as shown below.
-
-.. image:: img/thematic_maps_proportional_symbolmap9.png
-   :alt: New Legend
-
-
-13. Now go to Composer and set up the map for printing. In Composer, the final map should appear similar to the illustration shown below.
-
-.. image:: img/composing_map4b.png
-   :alt: Final Proportional Symbol Map
-
-
-
 |
 
 
-On your Own
-------------
 
-1. Create a thematic choropleth map showing Covid19 cases for Counties in the USA for February 2022.  Data for this task can be downloaded from `Github <https://github.com/hsemple/-Covid19/blob/master/usa_counties_covid_Feb25_2021.zip>`_.   
+Create an  Interactive Map of Covid19 Confirmed Cases in the US Using ArcGIS Online
 
-2. On the Github page, click on the "Download" button to download the data.
+ 
+
+a. Revisit the location where you stored the downloaded files from the last section. We will reuse the same data for this section. However, with ArcGIS Online, the data unzipped files will be used.
+
+ 
+
+b. Visit  http://arcgis.com and log into using your ArcGIS Online account.
+
+ 
+
+c. At the ArcGIS Online Homepage, click on Content.
+
+.. image:: img/ArcGISOnline_Homepage.png
+   :alt: ArcGIS Homepage
 
 
-.. image:: img/covid19_data_github.png
-   :alt: Download Covid19 Data
+ 
+
+d. Click on New Item. When the dialog appears, select "Your Device", then navigate to where the zipped "Covid19_Jan2022_USA_Counties.zip" shapefile is located.
+
+ 
+.. image:: img/ArcGiS Online_New_Item.png
+   :alt: ArcGIS Homepage
 
 
 
-|
+e. Select the file, fill out the dialog, click Next, then import the file. This process converts the shapefile into a format that can be easily displayed by browsers.
 
 
+.. image:: img/Add_hosted_feature_layer.png
+   :alt: ArcGIS Homepage
+
+
+ 
+
+f. After the layer imports, a page similar to the one appears.  First, click on Share and share the file with the general public or with the members of your organization, i.e., members of EMU. 
+
+ 
+
+g. Next, click on Open in Map Viewer.
+
+.. image:: img/Open_in_MapViewer.png
+   :alt: ArcGIS Homepage
+
+
+
+
+h. The map will open in Map Viewer. It should similar to the illustration below.
+
+
+.. image:: img/Map_Displayed_in_MapViewer.png
+   :alt: ArcGIS Homepage
+
+
+
+i. Center the map on the contiguous states.
+
+.. image:: img/Contiguous_USA1.png
+   :alt: ArcGIS Homepage
+
+
+
+j. Now, let's map an attribute field.  Click on the Styles button to the right of the application, the click on Field. Browse to the field named "Confirmed" and select it.
+
+.. image:: img/Add_Style2.png
+   :alt: ArcGIS Homepage
+
+
+ 
+
+k.  After the map draws, click on the Counts and Amounts (color) style.
+
+.. image:: img/Style3.png
+   :alt: ArcGIS Homepage
+
+
+ 
+i. When the dialog appears, click on Symbol Style. In the Symbol Style dialog, set the outline color of the county boundaries on the map to black, adjust the transparency to about 50%, and set the outline width of lines to 1 pixel.  Click Done.
+
+
+.. image:: img/Style4.png
+   :alt: ArcGIS Homepage
+
+
+ 
+
+j. Save the map by clicking on the Save as button and filling out the dialog.
+
+.. image:: img/Save_Map_as.png
+   :alt: ArcGIS Homepage
+
+
+
+ 
+
+k. Share the map by clicking on the Share button, as illustrated below.
+
+.. image:: img/ShareMap1.png
+   :alt: ArcGIS Homepage
+
+
+
+
+l. Copy the URL at the top of the page and submit it.
+
+ 
+ 
+
+Tips
+
+1. Often, to enhance the appearance of your final map, you may need to edit the layer name and field name for display purposes.  Click on this link
+
+Links to an external site. for information on how to make these changes.
+
+ 
+
+ 
 
 Deliverables
-------------
 
-1. A choropleth map showing distribution of population by states in the USA.
+1. A professional quality thematic map showing Covid19 cases by counties in the USA. The map must must be well-laid out and have an easy to understand color scheme, a title, legend, scale bar, and north arrow.  Export the layout as an image and upload it to Canvas.
 
-2. A proportional symbol map showing distribution of population by states in the USA.
+ 
 
-3. A choropleth map showing distribution of Covid19 cases by counties in the USA for February, 2022.
-
-4. A proportional symbol map showing population distribution by counties in Michigan.
-
+2. Professional Quality Interactive Web Map using ArcGIS Online. Map must use an appropriate color or symbol scheme. Legend must be edited. Submit the URL of the map.
 
 
 
